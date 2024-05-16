@@ -1,0 +1,302 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Crear Tu Avatar | Crear Avatar Gratis</title>
+<meta name="keywords" content="crear tu avatar, crear avatar, crear avatar gratis">
+<meta name="description" content="Crear Tu Avatar es una herramienta para crear avatar gratis y online. Podrás crear tu propio avatar y descargarlo gratis. Cuando creas tu personaje, tú eres el dueño de tu avatar y podrás usarlo en Facebook o donde desees.">
+<meta name="author" content="creartuavatar.com">
+<meta class="viewport" name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta property="fb:app_id" content="729813740504075" />
+<meta property="og:site_name" content="CrearTuAvatar.com" />
+<meta property="og:title" content="¡Crear Tu Avatar Online Gratis!" />
+<meta property="og:url" content="https://www.creartuavatar.com/" />
+<meta property="og:image:type" content="image/jpeg" />
+<meta property="og:image:width" content="1551" />
+<meta property="og:image:height" content="444" />
+<meta property="og:image" content="https://www.creartuavatar.com/images/bg.jpg" />
+<meta property="og:description" content="Crear Tu Avatar es una herramienta para crear avatar gratis y online. Podrás crear tu propio avatar y descargarlo gratis. Cuando creas tu personaje, tú eres el dueño de tu avatar y podrás usarlo en Facebook o donde desees.">
+<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+<link rel="icon" href="/favicon.ico" type="image/x-icon">
+<link rel="apple-touch-icon" sizes="57x57" href="images/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="images/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="images/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="images/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="images/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="images/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="images/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="images/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="images/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192" href="images/android-icon-192x192.png">
+
+<link href="https://fonts.googleapis.com/css?family=Roboto:100,300,300italic,400,400italic,500,700,700italic,900" rel="stylesheet" type="text/css">
+<link href="https://fonts.googleapis.com/css?family=Noto+Serif:400,400italic,700,700italic" rel="stylesheet" type="text/css">
+<link href="https://fonts.googleapis.com/css?family=Raleway:900" rel="stylesheet" type="text/css">
+<link href="https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700|Roboto:400,300,500,700&subset=latin,cyrillic-ext,cyrillic,latin-ext" rel="stylesheet" type="text/css">
+<link href="svgavatars/css/normalize.css" rel="stylesheet">
+<link href="svgavatars/css/spectrum.css" rel="stylesheet">
+<link href="svgavatars/css/svgavatars.css" rel="stylesheet">
+
+<link rel="stylesheet" href="plugins/font-awesome/css/font-awesome.min.css">
+
+<link rel="stylesheet" href="plugins/bootstrap/css/bootstrap.min.css">
+
+<link rel="stylesheet" href="css/style.css">
+<!--[if lt IE 9]>
+    <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+    <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+  <![endif]-->
+</head>
+<body>
+<div id="main" class="header-style1">
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-9682596-16', 'auto');
+  ga('send', 'pageview');
+
+</script>
+<header class="header-wrapper clearfix">
+<div class="header" id="header">
+<div class="container">
+<div class="mag-content">
+<div class="row">
+<div class="col-md-12">
+
+<a class="navbar-toggle collapsed" id="nav-button" href="#mobile-nav">
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+</a>
+
+<nav class="navbar mega-menu">
+<a class="logo" href="/" title="Crear tu Avatar" rel="home">
+<span>CREAR </span> TU <span> AVATAR</span>
+</a>
+
+<div class="navbar-collapse collapse">
+<ul class="nav navbar-nav">
+<li class="dropdown menu-color1">
+<a href="/" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Portada</a>
+</li>
+<li class="dropdown menu-color1">
+<a href="/anime/" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Anime</a>
+</li>
+<li class="dropdown menu-color1">
+<a href="/crear-avatar-iphone.php" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">iPhone</a>
+</li>
+<li class="dropdown menu-color1">
+<a href="/crear-avatar-android.php" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Android</a>
+</li>
+<li class="dropdown menu-color1">
+<a href="/crear-avatar-mujer.php" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Avatar » Mujer</a>
+</li>
+<li class="dropdown menu-color1">
+<a href="/crear-avatar-hombre.php" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Avatar » Hombre</a>
+</li>
+<li class="dropdown menu-color1">
+<a href="/crear-avatar-facebook.php" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Avatar » Facebook</a>
+</li>
+</ul>
+</div> 
+</nav>
+</div>
+</div>
+</div>
+</div>
+</div>
+</header>
+
+
+<div class="parallax-header page-wrapper">
+
+<div class="parallax-image" id="parallax-image" data-stellar-ratio="0.5" data-image="images/bg.jpg">
+</div>
+
+<div class="parallax-wrapper">
+<div class="container">
+<div class="mag-content parallax-box">
+<div class="row">
+<div class="col-md-12 parallax-box">
+<header class="page-header">
+<h1 class="page-title">
+CREAR TU AVATAR
+</h1>
+<p class="page-description">
+<b>Crear Tu Avatar</b> es una herramienta para crear avatar gratis y online. Podrás crear tu propio avatar y descargarlo gratis. Cuando creas tu personaje, tú eres el dueño de tu avatar y podrás usarlo en Facebook o donde desees.
+</p>
+</header>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="row">
+<div class="col-md-12">
+<div class="ad728-wrapper">
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+
+<ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-7871348605692081" data-ad-slot="6847459323" data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
+</div>
+</div>
+
+<div class="container">
+<div class="main-content mag-content clearfix">
+<div class="row">
+<div class="col-md-12">
+<div class="col-xs-12 col-md-9">
+<div id="svgAvatars"></div><br>
+<center>
+<p>¡Crea y descarga tu Avatar personalizado gratis!</p>
+<p>¡Por favor, visita uno de nuestros anunciantes para ayudarnos a seguir haciendo<br>actualizaciones a la herramienta número uno de Avatar en la red!</p></center>
+</div>
+<div class="col-xs-12 col-md-3">
+<center><a href="index.php">
+<button type="button" class="btn btn-primary btn-block">CREAR AVATAR GRATIS</button>
+</a></center>
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+
+<ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-7871348605692081" data-ad-slot="6847459323" data-ad-format="auto"></ins>
+<script>
+			(adsbygoogle = window.adsbygoogle || []).push({});
+			</script>
+<center><a href="index.php">
+<button type="button" class="btn btn-primary btn-block">CREAR AVATAR GRATIS</button>
+</a></center>
+<br>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="row">
+<div class="col-md-12">
+<div class="ad728-wrapper">
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+
+<ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-7871348605692081" data-ad-slot="6847459323" data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
+</div>
+</div>
+
+<footer class="footer source-org vcard copyright clearfix" id="footer" role="contentinfo">
+<div class="footer-main">
+<div class="fixed-main">
+<div class="container">
+<div class="mag-content">
+<div class="row">
+<div class="col-md-10">
+<div class="footer-block">
+<p class="clearfix">
+<a class="logo" href="/" title="Crear Tu Avatar | Crear Avatar" rel="home">
+<span>CREAR </span> TU <span> AVATAR</span>
+</a>
+</p>
+<p class="description">
+En <b><a href="/">Crear Tu Avatar</a></b> podrás crear un avatar online. Podrás utilizar <b><a href="/">Crear Tu Avatar</a></b> para crear tu personaje, una imagen de ti mismo, o dibujar a tus amigos. Crea tu personaje para una imagen de perfil de Facebook, o para tu blog. Puedes descargar el avatar gratis, sin ninguna restricción. <b><a href="/">Crear Tu Avatar</a></b> es una herramienta para crear avatar gratis y avatar online. Podrás crear tu propio avatar y descargarlo gratis. Cuando creas tu personaje, tú eres el dueño de tu avatar y podrás usarlo en Facebook o donde desees. Además, podras crear tu propio avatar online en <a href="/">iPhone</a> y iPad (iOS) y también en <a href="/">Android</a>. Ahora también podrás <a href="/crear-avatar-facebook.php">crear tu avatar en Facebook</a> y utilizar nuestro nuevo <a href="/">creador de personajes</a>. Tambien contamos con una nueva sección donde podras <a href="/anime/">crear un avatar anime</a>, con todo los estilos anime de imagen avatar y <a href="/anime/">crea tu personaje Anime.</a>
+</p>
+</div>
+</div>
+<div class="col-md-2">
+<div class="footer-block">
+<h3 class="footer-title">¡Danos Like!</h3>
+<ul class="footer-menu">
+<li><a href="https://www.facebook.com/creartuavatar">Facebook</a></li>
+</ul>
+<br>
+<h3 class="footer-title">¡Danos Share!</h3>
+<ul class="footer-menu">
+<li><a href="https://www.facebook.com/creartuavatar">Facebook</a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="footer-bottom">
+<div class="fixed-main">
+<div class="container">
+<div class="mag-content">
+<div class="row">
+<div class="col-md-6">
+<p>Copyright © <b><a href="/index.php">Crear Tu Avatar</a></b> © 2016. All Rights Reserved</p>
+</div>
+<div class="col-md-6">
+<div class="social-icons pull-right">
+<a href="https://www.facebook.com/creartuavatar"><i class="fa fa-facebook"></i> facebook </a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</footer>
+</div>
+
+<nav id="mobile-nav">
+<div>
+<ul>
+<li>
+<a href="/index.php">Portada</a>
+</li>
+<li>
+<a href="/anime/">Anime</a>
+</li>
+<li>
+<a href="/crear-avatar-iphone.php">iPhone</a>
+</li>
+<li>
+<a href="/crear-avatar-android.php">Android</a>
+</li>
+<li>
+<a href="/crear-avatar-mujer.php">Avatar » Mujer</a>
+</li>
+<li>
+<a href="/crear-avatar-hombre.php">Avatar » Hombres</a>
+</li>
+<li>
+<a href="/crear-avatar-facebook.php">Avatar » Facebook</a>
+</li>
+</ul>
+</div>
+</nav>
+<div id="go-top-button" class="fa fa-angle-up" title="Scroll To Top"></div>
+<div class="mobile-overlay" id="mobile-overlay"></div>
+
+<script src="js/jquery-1.11.2.min.js"></script>
+<script src="svgavatars/js/svg.js"></script>
+<script src="svgavatars/js/spectrum.js"></script>
+<script src="svgavatars/js/jquery.scrollbar.js"></script>
+<script src="svgavatars/js/canvg/rgbcolor.js"></script>
+<script src="svgavatars/js/canvg/StackBlur.js"></script>
+<script src="svgavatars/js/canvg/canvg.js"></script>
+<script src="svgavatars/js/svgavatars.es.js"></script>
+<script src="svgavatars/js/svgavatars.core.js"></script>
+
+<script src="js/modernizr.min.js"></script>
+
+<script src="plugins/bootstrap/js/bootstrap.js"></script>
+
+
+
+<script src="js/plugins.js"></script>
+
+<script src="js/script.js"></script>
+</body>
+</html>
